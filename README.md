@@ -1,6 +1,6 @@
 # protractor-testing
 
-# Start webdriver server
+# Start WebDriver server
 npm start
 
 # Execute tests
