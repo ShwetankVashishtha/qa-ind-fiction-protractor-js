@@ -1,4 +1,4 @@
-# protractor-testing
+# Protractor - AngularJS Application Testing
 
 # Start WebDriver server
 npm start
