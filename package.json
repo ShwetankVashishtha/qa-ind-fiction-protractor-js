@@ -1,0 +1,16 @@
+{
+  "name": "protractor-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js",
+    "start": "webdriver-manager update && webdriver-manager start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^5.4.2",
+    "ews-javascript-api": "0.9.4"
+  }
+}
