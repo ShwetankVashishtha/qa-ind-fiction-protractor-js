@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "protractor": "^5.4.2",
-    "ews-javascript-api": "0.9.4"
+    "protractor": "^5.4.2"
   }
 }
